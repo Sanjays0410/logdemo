@@ -1,0 +1,18 @@
+2    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+2    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+0    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+1    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+0    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+0    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+0    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+1    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+1    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+1    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+1    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+1    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+2    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+20   [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+1    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+1    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
+1    [main] ERROR com.cruds.logdemo.HelloWorld  - This is error message
+1    [main] FATAL com.cruds.logdemo.HelloWorld  - Application failed
